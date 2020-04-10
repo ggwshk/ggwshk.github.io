@@ -135,3 +135,6 @@
     $container.removeClass('mobile-nav-on');
   });
 })(jQuery);
+
+<!-- 动态背景 -->
+<script type="text/javascript" color="0,0,0" opacity='0.5' zIndex="-2" count="70" src="//cdn.bootcss.com/canvas-nest.js/1.0.1/canvas-nest.min.js"></script>
